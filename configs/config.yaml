@@ -1,0 +1,5 @@
+embed_html:
+    path: "../site/sv_br_vale/coronavirus/"
+    model_name: "model_index.html"
+    save_name : "index.html"
+  
