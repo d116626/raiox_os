@@ -35,18 +35,18 @@ CNES,Nome Unidade,Nome OSS,Detalhes,year
 5451612.0,Instituto de Reabilitação Lucy Montoro,Fundação Faculdade de Medicina,Visualizar,2012
 6123740.0,Instituto do Câncer do Estado de São Paulo,Fundação Faculdade de Medicina,Visualizar,2012
 2790580.0,Maternidade Santa Isabel,Fundação para o Desenvolvimento Médico-Hospitalar - FAMESP,Visualizar,2012
-2079720.0,Pólo de Atenção Intensiva em Saúde Mental da Baixada Santista - PAI Baixada Santista,Cruzada Bandeirante São Camilo Assistência Médico Social,Visualizar,2012
 2079720.0,Pólo de Atenção Intensiva em Saúde Mental da Baixada Santista - PAI Baixada Santista,Associação da Irmandade da Santa Casa de Misericórdia de Pacaembu,Visualizar,2012
-2077574.0,Pólo de Atenção Intensiva em Saúde Mental da Zona Norte - PAI Zona Norte,Associação Congregação de Santa Catarina,Visualizar,2012
+2079720.0,Pólo de Atenção Intensiva em Saúde Mental da Baixada Santista - PAI Baixada Santista,Cruzada Bandeirante São Camilo Assistência Médico Social,Visualizar,2012
 2077574.0,Pólo de Atenção Intensiva em Saúde Mental da Zona Norte - PAI Zona Norte,Associação Paulista para o Desenvolvimento da Medicina - SPDM,Visualizar,2012
-2069008.0,Ambulatório de Especialidades Dr. Geraldo de Paulo Bourroul,Serviço Social da Construção Civil do Estado de São Paulo - SECONCI,Visualizar,2012
+2077574.0,Pólo de Atenção Intensiva em Saúde Mental da Zona Norte - PAI Zona Norte,Associação Congregação de Santa Catarina,Visualizar,2012
 2069008.0,Ambulatório de Especialidades Dr. Geraldo de Paulo Bourroul,Irmandade da Santa Casa de Misericórdia de São Paulo,Visualizar,2012
+2069008.0,Ambulatório de Especialidades Dr. Geraldo de Paulo Bourroul,Serviço Social da Construção Civil do Estado de São Paulo - SECONCI,Visualizar,2012
 ,Ambulatório Estadual de Especialidades Médicas da Zona Leste,Casa de Saúde Santa Marcelina,Visualizar,2012
 6365213.0,Ambulatório Médico de Especialidades Avelino Fernandes,Santa Casa de Misericórdia de Votuporanga,Visualizar,2012
 6233848.0,Ambulatório Médico de Especialidades Caraguatatuba,Serviço Social da Construção Civil do Estado de São Paulo - SECONCI,Visualizar,2012
 6233848.0,Ambulatório Médico de Especialidades Caraguatatuba,Sociedade Assistencial Bandeirantes,Visualizar,2012
-6199879.0,Ambulatório Médico de Especialidades Carapicuíba,Associação da Irmandade da Santa Casa de Misericórdia de Pacaembu,Visualizar,2012
 6199879.0,Ambulatório Médico de Especialidades Carapicuíba,Cruzada Bandeirante São Camilo Assistência Médico Social,Visualizar,2012
+6199879.0,Ambulatório Médico de Especialidades Carapicuíba,Associação da Irmandade da Santa Casa de Misericórdia de Pacaembu,Visualizar,2012
 7033702.0,Ambulatório Médico de Especialidades Comendador Takayuki Maeda,Santa Casa de Misericórdia de Ituverava,Visualizar,2012
 7209517.0,Ambulatório Médico de Especialidades de Assis,Santa Casa de Misericórdia de Assis,Visualizar,2012
 7049730.0,Ambulatório Médico de Especialidades de Catanduva,Fundação Padre Albino,Visualizar,2012
@@ -73,8 +73,8 @@ CNES,Nome Unidade,Nome OSS,Detalhes,year
 6572367.0,Ambulatório Médico de Especialidades Dr. Oscar Gurjão Cotrim,Santa Casa de Andradina,Visualizar,2012
 6607179.0,Ambulatório Médico de Especialidades Durval Mantovaninni,Banco de Olhos de Sorocaba,Visualizar,2012
 6607179.0,Ambulatório Médico de Especialidades Durval Mantovaninni,Associação Lar São Francisco de Assis na Providência de Deus,Visualizar,2012
-6604862.0,Ambulatório Médico de Especialidades Edison Oliveira Martho,Santa Casa de Andradina,Visualizar,2012
 6604862.0,Ambulatório Médico de Especialidades Edison Oliveira Martho,Santa Casa de Misericórdia de Itapeva,Visualizar,2012
+6604862.0,Ambulatório Médico de Especialidades Edison Oliveira Martho,Santa Casa de Andradina,Visualizar,2012
 6752233.0,Ambulatório Médico de Especialidades Geral de Barretos,Fundação PIO XII,Visualizar,2012
 6546463.0,Ambulatório Médico de Especialidades Itapevi,Associação Congregação de Santa Catarina,Visualizar,2012
 6546463.0,Ambulatório Médico de Especialidades Itapevi,Fundação do ABC,Visualizar,2012
@@ -82,13 +82,13 @@ CNES,Nome Unidade,Nome OSS,Detalhes,year
 6423086.0,Ambulatório Médico de Especialidades Jardim dos Prados,Associação Congregação de Santa Catarina,Visualizar,2012
 6423086.0,Ambulatório Médico de Especialidades Jardim dos Prados,Cruzada Bandeirante São Camilo Assistência Médico Social,Visualizar,2012
 6956718.0,Ambulatório Médico de Especialidades Mauá,Fundação do ABC,Visualizar,2012
-6657516.0,Ambulatório Médico de Especialidades Olavo Silva Souza,Cruzada Bandeirante São Camilo Assistência Médico Social,Visualizar,2012
 6657516.0,Ambulatório Médico de Especialidades Olavo Silva Souza,Centro de Estudos e Pesquisas “Dr. João Amorim” – CEJAM,Visualizar,2012
+6657516.0,Ambulatório Médico de Especialidades Olavo Silva Souza,Cruzada Bandeirante São Camilo Assistência Médico Social,Visualizar,2012
 5967945.0,Ambulatório Médico de Especialidades Santa Fé do Sul,Santa Casa de Misericórdia de Votuporanga,Visualizar,2012
-6166598.0,Ambulatório Médico de Especialidades Santos,Cruzada Bandeirante São Camilo Assistência Médico Social,Visualizar,2012
 6166598.0,Ambulatório Médico de Especialidades Santos,Associação da Irmandade da Santa Casa de Misericórdia de Pacaembu,Visualizar,2012
-6294049.0,Ambulatório Médico de Especialidades São José dos Campos,Associação Paulista para o Desenvolvimento da Medicina - SPDM,Visualizar,2012
+6166598.0,Ambulatório Médico de Especialidades Santos,Cruzada Bandeirante São Camilo Assistência Médico Social,Visualizar,2012
 6294049.0,Ambulatório Médico de Especialidades São José dos Campos,Instituto Sócrates Guanaes - ISG,Visualizar,2012
+6294049.0,Ambulatório Médico de Especialidades São José dos Campos,Associação Paulista para o Desenvolvimento da Medicina - SPDM,Visualizar,2012
 6056148.0,Ambulatório Médico de Especialidades São José Rio Preto,Associação Lar São Francisco de Assis na Providência de Deus,Visualizar,2012
 5618401.0,Ambulatório Médico de Especialidades Votuporanga,Santa Casa de Misericórdia de Votuporanga,Visualizar,2012
 6889549.0,Centro de Medicina de Reabilitação Lucy Montoro de São José dos Campos,Associação Paulista para o Desenvolvimento da Medicina - SPDM,Visualizar,2012
@@ -98,11 +98,11 @@ CNES,Nome Unidade,Nome OSS,Detalhes,year
 7019823.0,Unidade de Reabilitação Lucy Montoro em Fernandópolis,Santa Casa de Andradina,Visualizar,2012
 6335586.0,Centro Estadual de Análises Clínicas da Zona Leste,Associação Paulista para o Desenvolvimento da Medicina - SPDM,Visualizar,2012
 3996344.0,Centro Estadual de Análises Clínicas da Zona Norte,Associação Fundo De Incentivo à Psicofarmacologia - AFIP,Visualizar,2012
-6351662.0,Centro Estadual de Análises Clínicas da Zona Sul,Associação Congregação de Santa Catarina,Visualizar,2012
 6351662.0,Centro Estadual de Análises Clínicas da Zona Sul,Associação Fundo De Incentivo à Psicofarmacologia - AFIP,Visualizar,2012
+6351662.0,Centro Estadual de Análises Clínicas da Zona Sul,Associação Congregação de Santa Catarina,Visualizar,2012
 ,Centro Estadual de Armazenamento e Distribuição de Insumos de Saúde,Serviço Social da Construção Civil do Estado de São Paulo - SECONCI,Visualizar,2012
-6932355.0,Serviço Estadual de Diagnóstico por Imagem I,Fundação Instituto de Pesquisa e Estudo de Diagnóstico por Imagem - FIDI,Visualizar,2012
 6932355.0,Serviço Estadual de Diagnóstico por Imagem I,Associação Congregação de Santa Catarina,Visualizar,2012
+6932355.0,Serviço Estadual de Diagnóstico por Imagem I,Fundação Instituto de Pesquisa e Estudo de Diagnóstico por Imagem - FIDI,Visualizar,2012
 6926207.0,Serviço Estadual de Diagnóstico por Imagem II,Serviço Social da Construção Civil do Estado de São Paulo - SECONCI,Visualizar,2012
 6927726.0,Serviço Estadual de Diagnóstico por Imagem III,Fundação Instituto de Pesquisa e Estudo de Diagnóstico por Imagem - FIDI,Visualizar,2012
 712516.0,Central de Regulação de Oferta de Serviços de Saúde,Serviço Social da Construção Civil do Estado de São Paulo - SECONCI,Visualizar,2012

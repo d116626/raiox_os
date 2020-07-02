@@ -1,9 +1,9 @@
 CNES,Nome Unidade,Nome OSS,Detalhes,year
-2746220.0,Centro de Atenção Integrada à Saúde Mental De Franco da Rocha,Associação Lar São Francisco de Assis na Providência de Deus,Visualizar,2018
 2746220.0,Centro de Atenção Integrada à Saúde Mental De Franco da Rocha,Irmandade da Santa Casa de Misericórdia de São Paulo,Visualizar,2018
+2746220.0,Centro de Atenção Integrada à Saúde Mental De Franco da Rocha,Associação Lar São Francisco de Assis na Providência de Deus,Visualizar,2018
 2079119.0,Centro de Referência da Saúde da Mulher de Ribeirão Preto - Mater,Fundação de Apoio ao Ensino Pesquisa e Assistência HCFMRPUSP - FAEPA,Visualizar,2018
-3001466.0,Centro Hospitalar do Sistema Penitenciário,Irmandade da Santa Casa de Misericórdia de São Paulo,Visualizar,2018
 3001466.0,Centro Hospitalar do Sistema Penitenciário,Fundação do ABC,Visualizar,2018
+3001466.0,Centro Hospitalar do Sistema Penitenciário,Irmandade da Santa Casa de Misericórdia de São Paulo,Visualizar,2018
 2081695.0,Conjunto Hospitalar de Sorocaba,Serviço Social da Construção Civil do Estado de São Paulo - SECONCI,Visualizar,2018
 2755130.0,"Hospital Regional ""Domingos Leonardo Ceravolo"" de Presidente Prudente",Associação Lar São Francisco de Assis na Providência de Deus,Visualizar,2018
 2080680.0,Hospital das Clínicas Luzia de Pinho Melo,Associação Paulista para o Desenvolvimento da Medicina - SPDM,Visualizar,2018
@@ -31,9 +31,9 @@ CNES,Nome Unidade,Nome OSS,Detalhes,year
 2792176.0,Hospital Geral de Itapecerica da Serra,Serviço Social da Construção Civil do Estado de São Paulo - SECONCI,Visualizar,2018
 2078104.0,Hospital Geral de Itapeví,Cruzada Bandeirante São Camilo Assistência Médico Social,Visualizar,2018
 2078562.0,Hospital Geral de Itaquaquecetuba,Casa de Saúde Santa Marcelina,Visualizar,2018
-2066092.0,Hospital Geral de Pedreira,Associação Paulista para o Desenvolvimento da Medicina - SPDM,Visualizar,2018
 2066092.0,Hospital Geral de Pedreira,Associação Congregação de Santa Catarina,Visualizar,2018
 2066092.0,Hospital Geral de Pedreira,Cruzada Bandeirante São Camilo Assistência Médico Social,Visualizar,2018
+2066092.0,Hospital Geral de Pedreira,Associação Paulista para o Desenvolvimento da Medicina - SPDM,Visualizar,2018
 2079828.0,Hospital Geral de Pirajussara,Associação Paulista para o Desenvolvimento da Medicina - SPDM,Visualizar,2018
 2077426.0,Hospital Geral Henrique Altimeyer de Vila Alpina,Serviço Social da Construção Civil do Estado de São Paulo - SECONCI,Visualizar,2018
 2077620.0,Hospital Geral Santa Marcelina do Itaim Paulista,Casa de Saúde Santa Marcelina,Visualizar,2018
@@ -76,8 +76,8 @@ CNES,Nome Unidade,Nome OSS,Detalhes,year
 7560435.0,Ambulatório Médico de Especialidades de Pariquera-Açu,Instituto Sócrates Guanaes - ISG,Visualizar,2018
 7560435.0,Ambulatório Médico de Especialidades de Pariquera-Açu,Cruzada Bandeirante São Camilo Assistência Médico Social,Visualizar,2018
 6258484.0,Ambulatório Médico de Especialidades de Praia Grande,Fundação do ABC,Visualizar,2018
-6818196.0,Ambulatório Médico de Especialidades de Promissão,Santa Casa de Misericórdia de Araçatuba,Visualizar,2018
 6818196.0,Ambulatório Médico de Especialidades de Promissão,Santa Casa de Andradina,Visualizar,2018
+6818196.0,Ambulatório Médico de Especialidades de Promissão,Santa Casa de Misericórdia de Araçatuba,Visualizar,2018
 6578578.0,Ambulatório Médico de Especialidades de Psiquiatria Dra. Jandira Masur,Associação Paulista para o Desenvolvimento da Medicina - SPDM,Visualizar,2018
 9580743.0,Ambulatório Médico de Especialidades de São Vicente,Serviço Social da Construção Civil do Estado de São Paulo - SECONCI,Visualizar,2018
 7062672.0,Ambulatório Médico de Especialidades de Taboão da Serra,Associação Paulista para o Desenvolvimento da Medicina - SPDM,Visualizar,2018
@@ -97,14 +97,14 @@ CNES,Nome Unidade,Nome OSS,Detalhes,year
 6752233.0,Ambulatório Médico de Especialidades Geral de Barretos,Fundação PIO XII,Visualizar,2018
 2068931.0,Ambulatório Médico de Especialidades Idoso Oeste,Associação Paulista para o Desenvolvimento da Medicina - SPDM,Visualizar,2018
 2091461.0,Ambulatório Médico de Especialidades Idoso Sudeste,Associação Paulista para o Desenvolvimento da Medicina - SPDM,Visualizar,2018
-6432530.0,Ambulatório Médico de Especialidades Interlagos,Instituto de Responsabilidade Social Sírio Libanês,Visualizar,2018
 6432530.0,Ambulatório Médico de Especialidades Interlagos,Associação Congregação de Santa Catarina,Visualizar,2018
+6432530.0,Ambulatório Médico de Especialidades Interlagos,Instituto de Responsabilidade Social Sírio Libanês,Visualizar,2018
 6639658.0,Ambulatório Médico de Especialidades Itapetininga,Fundação para o Desenvolvimento Médico-Hospitalar - FAMESP,Visualizar,2018
 6546463.0,Ambulatório Médico de Especialidades Itapevi,Associação Congregação de Santa Catarina,Visualizar,2018
 6546463.0,Ambulatório Médico de Especialidades Itapevi,Fundação do ABC,Visualizar,2018
-6423086.0,Ambulatório Médico de Especialidades Jardim dos Prados,Associação Paulista para o Desenvolvimento da Medicina - SPDM,Visualizar,2018
 6423086.0,Ambulatório Médico de Especialidades Jardim dos Prados,Associação Congregação de Santa Catarina,Visualizar,2018
 6423086.0,Ambulatório Médico de Especialidades Jardim dos Prados,Cruzada Bandeirante São Camilo Assistência Médico Social,Visualizar,2018
+6423086.0,Ambulatório Médico de Especialidades Jardim dos Prados,Associação Paulista para o Desenvolvimento da Medicina - SPDM,Visualizar,2018
 6956718.0,Ambulatório Médico de Especialidades Mauá,Fundação do ABC,Visualizar,2018
 6657516.0,Ambulatório Médico de Especialidades Olavo Silva Souza,Cruzada Bandeirante São Camilo Assistência Médico Social,Visualizar,2018
 6657516.0,Ambulatório Médico de Especialidades Olavo Silva Souza,Centro de Estudos e Pesquisas “Dr. João Amorim” – CEJAM,Visualizar,2018
@@ -129,8 +129,8 @@ CNES,Nome Unidade,Nome OSS,Detalhes,year
 7064497.0,Serviço de Reabilitação Lucy Montoro de Mogi Mirim,Instituto de Responsabilidade Social Sírio Libanês,Visualizar,2018
 7594011.0,Unidade de Reabilitação Lucy Montoro de Pariquera-Açu,Cruzada Bandeirante São Camilo Assistência Médico Social,Visualizar,2018
 7594011.0,Unidade de Reabilitação Lucy Montoro de Pariquera-Açu,Santa Casa de Andradina,Visualizar,2018
-7019823.0,Unidade de Reabilitação Lucy Montoro em Fernandópolis,Santa Casa de Misericórdia de Fernandopolis,Visualizar,2018
 7019823.0,Unidade de Reabilitação Lucy Montoro em Fernandópolis,Santa Casa de Andradina,Visualizar,2018
+7019823.0,Unidade de Reabilitação Lucy Montoro em Fernandópolis,Santa Casa de Misericórdia de Fernandopolis,Visualizar,2018
 6335586.0,Centro Estadual de Análises Clínicas da Zona Leste,Associação Paulista para o Desenvolvimento da Medicina - SPDM,Visualizar,2018
 3996344.0,Centro Estadual de Análises Clínicas da Zona Norte,Associação Fundo De Incentivo à Psicofarmacologia - AFIP,Visualizar,2018
 6351662.0,Centro Estadual de Análises Clínicas da Zona Sul,Associação Congregação de Santa Catarina,Visualizar,2018

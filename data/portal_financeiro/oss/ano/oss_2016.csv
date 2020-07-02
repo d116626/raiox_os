@@ -1,0 +1,109 @@
+OSS,Gerenciadora atual,Contratado,Pago,ano
+Hospital Santo André,Fundação ABC,1783.0,1791.0,2016
+Hospital Guarulhos,SPDM,1672.0,1668.0,2016
+Hospital Luzia de Pinho Melo,SPDM,1586.0,1585.0,2016
+Hospital Bauru,FAMESP,1579.0,1581.0,2016
+Hospital Presidente Prudente,Lar São Francisco,1514.0,1512.0,2016
+Hospital Brigadeiro,SPDM,1457.0,1452.0,2016
+Hospital Grajau,Sirío Libanês,1336.0,1337.0,2016
+Hospital Pedreira,SPDM,0.0,1334.0,2016
+Hospital Local Sapopemba,SECONCI,1240.0,1245.0,2016
+Hospital Sumaré,UNICAMP,1212.0,1212.0,2016
+Hospital Itaim Paulista,Casa de Saúde Sta. Marcelina,1196.0,1200.0,2016
+Hospital Pirajussara,SPDM,1196.0,1194.0,2016
+Hospital Vila Alpina,SECONCI,1188.0,1186.0,2016
+Hospital Itaquaquecetuba,Casa de Saúde Sta. Marcelina,1163.0,1165.0,2016
+Hospital Carapicuiba,Cruzada Bandeirante São Camilo,1164.0,1164.0,2016
+Hospital Itapecerica da Serra,SECONCI,1142.0,1140.0,2016
+Hospital Diadema,SPDM,1104.0,1101.0,2016
+Hospital Itapevi,Cruzada Bandeirante São Camilo,1092.0,1092.0,2016
+Hospital Base de Bauru,FAMESP,957.0,953.0,2016
+Hospital Cotia,SECONCI,840.0,844.0,2016
+Hospital Vale do Ribeira,CONSAUDE,826.0,828.0,2016
+SEDI II,SECONCI,796.0,794.0,2016
+Hospital Franco da Rocha,Lar São Francisco,766.0,776.0,2016
+SEDI I,FIDI,754.0,751.0,2016
+CROSS,SECONCI,705.0,708.0,2016
+SEDI III,FIDI,672.0,672.0,2016
+Hospital Vale do Paraiba,SOCIEDADE SÃO CAMILO,631.0,642.0,2016
+Hospital Francisco Morato,Fundação ABC,639.0,636.0,2016
+Hospital Americo Brasiliense,FAEPA,591.0,588.0,2016
+AME Heliopolis,SECONCI,530.0,529.0,2016
+CEAC Zona Norte,AFIP - Produção,525.0,499.0,2016
+Hospital Universitário de Taubaté,SOCIEDADE SÃO CAMILO,496.0,492.0,2016
+Hospital Penitenciario,Fundação ABC,461.0,456.0,2016
+CEAC Zona Sul,AFIP - Produção,414.0,405.0,2016
+AME Maria Zelia,SPDM,399.0,394.0,2016
+Instituto Lucy Montouro,Fundação Faculdade de Medicina,383.0,384.0,2016
+Hospital Itanhaem,Cruzada Bandeirante São Camilo,310.0,312.0,2016
+Hospital João Paulo II,Lar São Francisco,296.0,306.0,2016
+Hospital Jundiaí,Sirío Libanês,301.0,302.0,2016
+Maternidade Santa Isabel,FAMESP,294.0,300.0,2016
+Hospital Ribeirão Preto,FAEPA,291.0,290.0,2016
+AME Zona Leste,Casa de Saúde Sta. Marcelina,264.0,264.0,2016
+AME Caraguatatuba,SECONCI,245.0,243.0,2016
+AME São Jose do Rio Preto,Lar São Francisco,239.0,240.0,2016
+AME Votuporanga,Santa Casa - Votuporanga,224.0,228.0,2016
+AME Bourroul,SECONCI,222.0,226.0,2016
+CRSM de Ribeirão Preto,FAEPA,220.0,216.0,2016
+Helvetia,SPDM,166.0,209.0,2016
+AME Praia Grande,Fundação ABC,195.0,195.0,2016
+AME Araçatuba,Santa Casa - Andradina,186.0,195.0,2016
+AME Santos,Cruzada Bandeirante São Camilo,187.0,194.0,2016
+Instituto Emilio Ribas II,Fundação ABC,203.0,194.0,2016
+CEADIS,SECONCI,198.0,192.0,2016
+AME Presidente Prudente,Lar São Francisco,196.0,192.0,2016
+Hospital Porto Primavera,Lar São Francisco,191.0,191.0,2016
+AME São Jose dos Campos,SPDM,184.0,180.0,2016
+AME Jardim dos Prados,Cruzada Bandeirante São Camilo,175.0,180.0,2016
+AME Franca,Santa Casa - Franca,178.0,180.0,2016
+AME Carapicuiba,Cruzada Bandeirante São Camilo,162.0,168.0,2016
+AME Sorocaba,SECONCI,168.0,168.0,2016
+AME Santo André,Fundação ABC,164.0,165.0,2016
+AME Pariquera-Açú,Cruzada Bandeirante São Camilo,156.0,161.0,2016
+AME Atibaia,Lar São Francisco,160.0,158.0,2016
+CRI Zona Norte,Associação Santa Catarina,161.0,156.0,2016
+AME Andradina,Santa Casa - Andradina,146.0,147.0,2016
+AME Itapevi,Associação Santa Catarina,143.0,147.0,2016
+AME Ourinhos,Santa Casa - Assis,142.0,144.0,2016
+AME Tupã,FAMESP,140.0,142.0,2016
+AME Dracena,Santa Casa - Dracena,136.0,134.0,2016
+AME Bauru,FAMESP,135.0,133.0,2016
+CAISM Franco da Rocha,Lar São Francisco,130.0,132.0,2016
+AME Jundiai,Cruzada Bandeirante São Camilo,131.0,132.0,2016
+Pai Zona Norte,Banco de Olhos de Sorocaba,130.0,132.0,2016
+AME Interlagos,Sirío Libanês,131.0,127.0,2016
+AME Assis,Santa Casa - Assis,115.0,122.0,2016
+AME Rio Claro,UNICAMP,119.0,120.0,2016
+AME Itapetininga,FAMESP,118.0,120.0,2016
+AME Vila Maria,SPDM,121.0,120.0,2016
+AME Mogi-Guaçu,UNICAMP,118.0,118.0,2016
+AME Promissão,Santa Casa - Andradina,111.0,111.0,2016
+AME Jales,Santa Casa - Votuporanga,102.0,108.0,2016
+AME Mogi das Cruzes,SPDM,103.0,108.0,2016
+AME Limeira,UNICAMP,108.0,108.0,2016
+AME Itapeva,Santa Casa - Itapeva,103.0,108.0,2016
+AME Barretos Geral,Fundação PIO XII,107.0,108.0,2016
+AME Mauá,Fundação ABC,101.0,99.0,2016
+AME Taboão da Serra,SPDM,94.0,96.0,2016
+AME Itú,Cruzada Bandeirante São Camilo,94.0,96.0,2016
+AME Casa Branca,CONDERG,98.0,96.0,2016
+AME São João da Boa Vista,UNICAMP,102.0,96.0,2016
+AME Idoso Oeste,SPDM,80.0,91.0,2016
+AME Piracicaba,UNICAMP,89.0,85.0,2016
+AME Catanduva,Fundação Padre Albino,88.0,84.0,2016
+AME Santa Fé do Sul,Santa Casa - Votuporanga,86.0,84.0,2016
+AME Barretos (CIRURGICO),Fundação PIO XII,77.0,73.0,2016
+AME Lorena,SECONCI,57.0,72.0,2016
+Rede L. Montoro São J. Campos,SPDM,76.0,72.0,2016
+Pai Baixada Santista,Cruzada Bandeirante São Camilo,71.0,72.0,2016
+Rede L. Montoro S. J. Rio Preto,FUNFARME,70.0,72.0,2016
+Rede L. Montoro Mogi Mirm,Sirío Libanês,61.0,60.0,2016
+AME Idoso Sudeste,SPDM,41.0,49.0,2016
+AME Ituverava,Santa Casa - Ituverava,38.0,44.0,2016
+Hospital Manuel de Abreu,FAMESP,39.0,36.0,2016
+Rede L. Montoro Santos,Cruzada Bandeirante São Camilo,30.0,36.0,2016
+AME Fernandopolis,Santa Casa - Franca,40.0,36.0,2016
+Rede L. Montoro Pariquera Açú,Cruzada Bandeirante São Camilo,18.0,24.0,2016
+Rede L. Montoro Fernandopolis,Santa Casa - Franca,20.0,24.0,2016
+Total,Total,4.4002,4.5433,2016
