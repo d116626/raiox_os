@@ -40,3 +40,13 @@ echo " "
 echo " "
 echo " "
 
+
+
+
+echo "oss_cities"
+echo " "
+scrapy runspider oss_cities.py
+echo " "
+echo " "
+echo " "
+echo " "
