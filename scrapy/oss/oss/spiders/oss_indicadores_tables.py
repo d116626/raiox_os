@@ -58,7 +58,7 @@ class OSS(scrapy.Spider):
         
         
         
-        df.to_csv(f'../../../../data/oss_indicadores/{tipo_unidade}_{periodo}_{ano}.csv', index=False)
+        df.to_csv(f'../../../../data/oss_indicadores/{tipo_unidade}_{periodo}_{ano}.csv', index=False, encoding='utf-8')
 
         
         

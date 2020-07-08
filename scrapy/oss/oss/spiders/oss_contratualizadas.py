@@ -77,10 +77,10 @@ class OSS(scrapy.Spider):
         
         if meta['tipo'] == 'year':
             year = meta['var']
-            df.to_csv(f'../../../../data/oss_contratualizadas/years/{year}.csv', index=False)
+            df.to_csv(f'../../../../data/oss_contratualizadas/years/{year}.csv', index=False, encoding='utf-8')
         elif meta['tipo'] == 'organizacao':
             organizacao = meta['var']
-            df.to_csv(f'../../../../data/oss_contratualizadas/organizacoes/{organizacao}.csv', index=False)
+            df.to_csv(f'../../../../data/oss_contratualizadas/organizacoes/{organizacao}.csv', index=False, encoding='utf-8')
         
         
         

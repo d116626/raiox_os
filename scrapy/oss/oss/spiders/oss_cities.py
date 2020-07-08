@@ -48,6 +48,8 @@ class OSS(scrapy.Spider):
 
         html = unicodedata.normalize("NFKD", r).replace('&nbsp',' ').replace('\xa0',' ').replace('CNPJ:',' CNPJ:').replace('Tipo:',' Tipo:').replace('Unidade','Unidade ').replace('Município:',' Município:')
         
+        # html = unicodedata.normalize("NFKD", r).encode('ascii', 'ignore').decode('utf8').replace('&nbsp',' ').replace('\xa0',' ').replace('CNPJ:',' CNPJ:').replace('Tipo:',' Tipo:').replace('Unidade','Unidade ').replace('Município:',' Município:')
+
         soup = BeautifulSoup(html, 'html.parser', )
 
 
@@ -90,4 +92,4 @@ class OSS(scrapy.Spider):
         dd_final = dd_final[cols]
         
         
-        dd_final.to_csv(f'../../../../data/oss_cidades/oss_cidades_{meta["var"]}.csv', index=False)
+        dd_final.to_csv(f'../../../../data/oss_cidades/oss_cidades_{meta["var"]}.csv', index=False, encoding='utf-8')
